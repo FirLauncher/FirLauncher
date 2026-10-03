@@ -43,8 +43,8 @@ A minimal, modern Minecraft launcher for people who play with mods. Every instan
 ## Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_ЛОГИН&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=8B5CF6&icon_color=8B5CF6&text_color=F4F4F5" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_ЛОГИН&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=8B5CF6&text_color=F4F4F5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=firlauncher&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=8B5CF6&icon_color=8B5CF6&text_color=F4F4F5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firlauncher&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=8B5CF6&text_color=F4F4F5" />
 </p>
 
 ## Contact
