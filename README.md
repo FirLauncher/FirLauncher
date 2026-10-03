@@ -51,5 +51,5 @@ A minimal, modern Minecraft launcher for people who play with mods. Every instan
 
 <p>
   <a href="https://t.me/blukbo"><img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:niompaolzuy@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="niompaolzuy@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
