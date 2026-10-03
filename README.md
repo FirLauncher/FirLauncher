@@ -24,7 +24,7 @@
 A minimal, modern Minecraft launcher for people who play with mods. Every instance is an isolated folder with its own mods, worlds, and settings. Runs on Windows, macOS, and Linux.
 
 <p align="center">
-  <img src="https://github.com/FirLauncher/FirLauncher/raw/main/docs/screenshots/instances.png" width="800" />
+  <img src="https://firlauncher.github.io/assets/instances.webp" width="800" />
 </p>
 
 - Any Minecraft version with Fabric, Quilt, Forge, or NeoForge
